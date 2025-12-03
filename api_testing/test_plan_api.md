@@ -9,7 +9,7 @@ Public REST API: [https://reqres.in/]
 **Tools:**
 - Postman (for sending requests)
 - GitHub (for storing artifacts)
-- VS Code / Notepad (for writing test cases and reports)
+- Google sheets/Notepad (for writing test cases and reports)
 
 **Types of Testing:**
 - Functional testing (checking the correctness of all endpoints)
