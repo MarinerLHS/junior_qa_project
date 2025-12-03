@@ -3,8 +3,8 @@
   1. Check API request GET for List of Users.
   2. Check API request GET for Single User. 
   3. Check API request GET for Single User not Found. 
-  4. Check API request GET for Single <Resource>.
-  5. Check API request GET for Single <Resource> Not Found. 
+  4. Check API request GET for Single **Resource**.
+  5. Check API request GET for Single **Resource** Not Found. 
   6. Check API request POST for Create. 
   7. Check API request POST for Register successful.
   8. Check API request POST for Register unsuccessful.
