@@ -1,6 +1,6 @@
 **Api testing checklist Reqres.in**
 
-  1. Check API request GET for Lsit Users.
+  1. Check API request GET for List of Users.
   2. Check API request GET for Single User. 
   3. Check API request GET for Single User not Found. 
   4. Check API request GET for Single <Resource>.
