@@ -13,6 +13,9 @@ Steps:
 
 Expected Result:
 - Status code: 200
+- Response contains required fields:
+id, email, first_name, last_name, avatar
+- Field types are correct
 - Response contains a list of users with fields:
 ```json
 {
@@ -36,6 +39,7 @@ Expected Result:
 Actual Result:
 - Status code: 200
 - Response contains a list of users
+- Fields and type of fields are correct
 - No errors
 
 Priority: High
