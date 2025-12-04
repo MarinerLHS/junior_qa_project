@@ -28,7 +28,8 @@ Expected Result:
 
 Actual Result:
 - Response contain expected data 
-```json {
+```json 
+{
     "name": "morpheus",
     "job": "leader",
     "id": "330",
