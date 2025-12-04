@@ -32,7 +32,10 @@ Expected Result:
 - No errors
 
 Actual Result:
+
 Code: 200 
+
+Response contains an actual user with ID=2:
 ```json
 "data": {
         "id": 2,
@@ -42,9 +45,10 @@ Code: 200
         "avatar": "https://reqres.in/img/faces/2-image.jpg"
     }
 ```
-
+No errors.
 
 Priority: High
+
 Test Type: Positive
 
 Status:
