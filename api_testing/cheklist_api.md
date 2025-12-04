@@ -10,4 +10,6 @@
   8. Check API request POST for Register unsuccessful.
   9. Check API request PATCH for Update.
   10. Check API request DELETE for Delete. 
-  
+  11. Check API request GET for Wrong Expected Email.
+  12. Check API request POST for Wrong expected Status Code.
+  13. Check API request PATCH for Invalid Json Body.
