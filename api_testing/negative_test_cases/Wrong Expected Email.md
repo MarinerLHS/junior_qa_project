@@ -1,13 +1,11 @@
 Test Case ID: TC_API_FAIL_001
 
-Title: Verify that user email equals wrong@mail.com (intentional FAIL)
+Title: Verify that user email equals peter.peterson@mail.com
 
 **Preconditions:**
 
 - API is available
-
 - User with ID=2 exists
-
 - Base URL: https://reqres.in/api/
 
 **Steps:**
@@ -22,11 +20,11 @@ Title: Verify that user email equals wrong@mail.com (intentional FAIL)
 
 Status code: 200
 
-email = peter.peterson@mail.com
+email: peter.peterson@mail.com
 
 **Actual Result:**
 
-email = janet.weaver@reqres.in → FAIL
+email: janet.weaver@reqres.in
 
 Priority: Medium
 
