@@ -5,10 +5,10 @@ Title: Verify that a single user with ID=2 can be retrieved successfully
 Preconditions:
 - API is available
 - User with ID=2 exists
-- Base URL: https://api.reqres.in/api/
+- Base URL: https://reqres.in/api/
 
 Steps:
-1. Send GET request to https://api.reqres.in/api/users/2
+1. Send GET request to https://reqres.in/api/users/2
 2. Check the status code
 3. Validate returned JSON structure and values
 
