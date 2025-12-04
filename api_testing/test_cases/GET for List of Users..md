@@ -13,6 +13,7 @@ Steps:
 Expected Result:
 - Status code: 200
 - Response contains a list of users with fields:
+***json
 {
   "page": 2,
   "per_page": 6,
@@ -28,6 +29,7 @@ Expected Result:
   }
   ]
 }
+***
 - No errors
 
 Actual Result:
