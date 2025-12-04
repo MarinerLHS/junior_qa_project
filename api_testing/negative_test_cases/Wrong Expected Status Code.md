@@ -23,7 +23,7 @@ Send POST request to https://reqres.in/api/users
 
 - Status code: 201
 
-Priority: High
+Priority: Medium
 
 Test Type: Negative
 
