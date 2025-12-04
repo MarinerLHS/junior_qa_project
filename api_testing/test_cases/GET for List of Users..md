@@ -4,10 +4,10 @@ Title: Verify that the list of users can be retrieved successfully
 
 Preconditions:
 - API is available
-- Base URL: https://api.reqres.in/api/
+- Base URL: https://reqres.in/api/
 
 Steps:
-1. Send GET request to https://api.reqres.in/api/users?page=1
+1. Send GET request to https://reqres.in/api/users?page=1
 2. Check the status code
 3. Validate returned JSON structure and user list
 
