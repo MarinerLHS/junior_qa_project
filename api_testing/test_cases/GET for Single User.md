@@ -1,4 +1,5 @@
 Test Case ID: TC_API_002
+
 Title: Verify that a single user with ID=2 can be retrieved successfully
 
 Preconditions:
