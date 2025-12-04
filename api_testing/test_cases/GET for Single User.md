@@ -14,6 +14,9 @@ Steps:
 
 Expected Result:
 - Status code: 200
+- Response contains required fields:
+id, email, first_name, last_name, avatar
+- Field types are correct
 - Response contains:
  ```json 
 {
@@ -46,6 +49,7 @@ Actual Result:
         "avatar": "https://reqres.in/img/faces/2-image.jpg"
     }
 ```
+- Field types are correct
 - No errors.
 
 Priority: High
