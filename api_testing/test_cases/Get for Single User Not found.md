@@ -5,10 +5,10 @@ Title: Verify that requesting a non-existing user returns correct error
 Preconditions:
 - API is available
 - User with ID=23 does not exist
-- Base URL: https://api.reqres.in/api/
+- Base URL: https://reqres.in/api/
 
 Steps:
-1. Send GET request to https://api.reqres.in/api/users/23
+1. Send GET request to https://reqres.in/api/users/23
 2. Check the status code
 3. Validate returned JSON error message
 
