@@ -36,6 +36,7 @@ Actual Result:
     "createdAt": "2025-12-04T18:14:48.111Z"
 }
 ```
+- Fields are correct
 - Status code: 201
 - No any errors
 
