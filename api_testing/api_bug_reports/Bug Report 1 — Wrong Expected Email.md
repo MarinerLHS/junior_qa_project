@@ -1,9 +1,9 @@
-Bug ID: BUG_API_001
+**Bug ID: BUG_API_001**
 
 Title: Single User API returns correct email, but test expected wrong email
 
 
-Test Case ID: TC_API_FAIL_001
+**Test Case ID: TC_API_FAIL_001**
 
 Environment: Windows 10 PRO; Postman v11.74.4; 
 
@@ -27,6 +27,9 @@ The GET request for user ID=2 returns the correct email from API (janet.weaver@r
 - Email = janet.weaver@reqres.in
 
 Severity: Medium
+
 Priority: Medium
+
 Status: Open
+
 Comments: Test case intentionally set the wrong expected email to simulate a FAIL.
