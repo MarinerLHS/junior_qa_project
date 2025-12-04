@@ -27,7 +27,7 @@ Expected Result:
   - createdAt timestamp
 
 Actual Result:
-- Response contain expected data 
+- Response contain expected data, JSON data
 ```json 
 {
     "name": "morpheus",
