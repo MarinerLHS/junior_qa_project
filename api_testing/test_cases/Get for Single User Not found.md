@@ -1,4 +1,5 @@
 Test Case ID: TC_API_003
+
 Title: Verify that requesting a non-existing user returns correct error
 
 Preconditions:
