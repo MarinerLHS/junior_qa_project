@@ -4,10 +4,10 @@ Title: Verify that a new user can be created successfully
 
 Preconditions:
 - API is available
-- Base URL: https://api.reqres.in/api/
+- Base URL: https://reqres.in/api/
 
 Steps:
-1. Send POST request to https://api.reqres.in/api/users
+1. Send POST request to https://reqres.in/api/users
 2. Include JSON body:
 ```json
    {
