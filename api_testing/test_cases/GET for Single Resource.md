@@ -1,3 +1,12 @@
+Test Case ID: TC_API_004
+
+Title: Verify that a single resource can be retrieved successfully
+
+Preconditions:
+- API is available
+- Resource with ID=2 exists
+- Base URL: https://api.reqres.in/api/
+
 Steps:
 1. Send GET request to https://api.reqres.in/api/unknown/2
 2. Check the status code
