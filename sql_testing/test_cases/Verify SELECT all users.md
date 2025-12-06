@@ -5,7 +5,8 @@
 **Preconditions:** Database is available, table users exists
 
 - Steps:
-1. Execute: ``` sql SELECT * FROM users; ```
+1. Execute: ```sql
+  SELECT * FROM users; ```
 2. Check returned rows and fields
 
 **Expected Result:** 3 rows, fields: id, first_name, last_name, email, created_at
