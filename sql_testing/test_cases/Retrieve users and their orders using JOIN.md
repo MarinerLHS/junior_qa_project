@@ -9,9 +9,15 @@ Database is available. Tables users, products, and orders exist and contain init
 
 1.Execute:
 
-<pre> ```sql SELECT u.first_name, u.last_name, u.email FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.id IS NULL; ``` </pre>
-
-
+```sql
+SELECT 
+    u.first_name,
+    u.last_name,
+    u.email
+FROM users u
+LEFT JOIN orders o ON u.id = o.user_id
+WHERE o.id IS NULL;
+```
 2.Check returned data.
 
 **Expected Result:**
