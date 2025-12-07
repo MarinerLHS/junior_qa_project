@@ -7,7 +7,7 @@
 
 - Steps:
 
-1. Execute **SELECT * FROM users where id = 2;**
+1. Execute `SELECT * FROM users where id = 2;`
 2. Check returned data
 
 **Expected Result:** 1 row, for user with ID = 2, first_name, last_name, email, created at
