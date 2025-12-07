@@ -9,7 +9,7 @@
 1. Execute ```sql SELECT email, COUNT(*) 
 		FROM users 
 		GROUP BY email 
-		HAVING COUNT(*) > 1;```
+		HAVING COUNT(*) > 1;
 
 2. Check returned data
 
