@@ -9,15 +9,7 @@ Database is available. Tables users, products, and orders exist and contain init
 
 1.Execute:
 
-`SELECT 
-    u.first_name,
-    u.last_name,
-    p.product_name,
-    o.quantity,
-    o.total_price
-FROM orders o
-JOIN users u ON o.user_id = u.id
-JOIN products p ON o.product_id = p.id;`
+<pre> ```sql SELECT u.first_name, u.last_name, u.email FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.id IS NULL; ``` </pre>
 
 
 2.Check returned data.
