@@ -8,7 +8,12 @@
 
 - Steps:
 
-1. Execute `SELECT * FROM products WHERE price < 0;`
+1. Execute:
+
+```sql
+SELECT * FROM products WHERE price < 0;
+```
+
 2. Check returned data
 
 **Expected Result:** Returns empty data.
