@@ -7,9 +7,12 @@
 
 - Steps:
 
-1. Execute: `SELECT user_id, COUNT(*) AS order_count 
+1. Execute: 
+```sql
+SELECT user_id, COUNT(*) AS order_count 
 		FROM orders 
-		GROUP BY user_id;`
+		GROUP BY user_id;
+```
     
 2. Check returned data
 
