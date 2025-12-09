@@ -25,8 +25,10 @@ Expected Result:
 Database returns a FOREIGN KEY constraint error (intentional negative test case).
 
 Actual Result:
+
 `SQL Error [23503]: ERROR: insert or update on table "orders" violates foreign key constraint "orders_user_id_fkey"`
- 	`Detail: Key (user_id)=(999) is not present in table "users".`
+ 	
+  `Detail: Key (user_id)=(999) is not present in table "users".`
 
 - Severity: High
 
