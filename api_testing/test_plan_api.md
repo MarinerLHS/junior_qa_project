@@ -1,7 +1,7 @@
 # Test Plan – Reqres.in API
 
 **Objective:** 
-To test the functionality of the REST API (GET, POST, PUT, DELETE), identify bugs, and ensure that the API returns correct responses for requests.
+To test the functionality of the REST API (GET, POST, DELETE), identify bugs, and ensure that the API returns correct responses for requests.
 
 **Test Object:** 
 Public REST API: [https://reqres.in/]
@@ -24,7 +24,6 @@ Public REST API: [https://reqres.in/]
 **Test Completion Criteria:**
 - All test cases are executed
 - All bugs are logged and documented
-- Final report is prepared
 
 **Test Objects:**
 - List of users (GET /users)
