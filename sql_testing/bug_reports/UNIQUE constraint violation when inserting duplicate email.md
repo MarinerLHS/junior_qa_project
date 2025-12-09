@@ -27,12 +27,13 @@ Database returns a UNIQUE constraint violation error (intentional negative test 
 **Actual Result:**
 
 Database returns:
+
 `SQL Error [23505]: ERROR: duplicate key value violates unique constraint "users_email_key"`
 
 `Detail: Key (email)=(john.new@example.com) already exists.`
 
-Severity: High
+- Severity: High
 
-Priority: High
+- Priority: High
 
-Status: Open
+- Status: Open
