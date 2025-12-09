@@ -29,7 +29,6 @@ Database returns a data type error (intentional negative test case).
   
 	`Position: 79`
 
-
 	`Error position: line: 14 pos: 78`
 
 - Severity: Medium
