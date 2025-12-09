@@ -16,7 +16,7 @@ Attempting to insert a user with an email that already exists in the users table
 1.Execute:
 ```sql
 INSERT INTO users (first_name, last_name, email)
-VALUES ('Duplicate','User','john.doe@example.com');
+VALUES ('Duplicate','User','john.new@example.com');
 ```
 
 2.Check system response.
@@ -29,7 +29,7 @@ Database returns a UNIQUE constraint violation error (intentional negative test 
 Database returns:
 `SQL Error [23505]: ERROR: duplicate key value violates unique constraint "users_email_key"`
 
- `Detail: Key (email)=(john.new@example.com) already exists.`
+`Detail: Key (email)=(john.new@example.com) already exists.`
 
 Severity: High
 
