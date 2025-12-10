@@ -77,13 +77,13 @@ To test the basic functionality of the database using SQL queries (SELECT, JOIN,
 
 1. SELECT Tests
 
-- Retrieve all users
+- Get all users
 
-- Retrieve user by ID
+- Get user by ID
 
-- Retrieve users with their orders (JOIN)
+- Get users with their orders (JOIN)
 
-- Retrieve users with no orders (LEFT JOIN)
+- Get users with no orders (LEFT JOIN)
 
 - Check product prices
 
@@ -99,12 +99,10 @@ To test the basic functionality of the database using SQL queries (SELECT, JOIN,
 
 - Reduce product stock after order
 
-3. Constraint Tests (Negative)
+3. Negative Tests
 
 - Insert user with duplicate email (UNIQUE)
 
 - Insert order with invalid user_id (FOREIGN KEY)
-
-- Insert NULL into NOT NULL field (email)
 
 - Insert invalid data type (e.g., text instead of number)
