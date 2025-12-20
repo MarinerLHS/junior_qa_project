@@ -1,4 +1,4 @@
-**Api testing checklist Reqres.in**
+|**Api testing checklist Reqres.in**|
 
   1. Check API request GET for List of Users.
   2. Check API request GET for Single User. 
