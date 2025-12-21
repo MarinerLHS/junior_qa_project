@@ -1,4 +1,4 @@
-**Test Case ID:** TC_SQL_UPDATE_001
+**Test Case ID:** TC_SQL_007
 
 **Title:** Update email of a specific user
 
