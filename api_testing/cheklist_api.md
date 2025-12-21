@@ -1,8 +1,13 @@
- # **Api testing checklist Reqres.in** #                                          
+ # **Api testing checklist Reqres.in** # 
+ 
 ###Description### : Self-studying for understanding of how API requests works
-№№№Environment### : Reqres.in; Windows 10 PRO; Postman v11.74.4;
+
+###Environment### : Reqres.in; Windows 10 PRO; Postman v11.74.4;
+
 ###Created by### : Igor Protsenko
+
 ###Status### : Done
+
 ###Version### : 1.12
 
 | ID | Descriptoin of API requests                              | Expected result | Priority | Status |
