@@ -14,8 +14,7 @@
 |TC_API_009| PATCH for Update.                | Status code: 200, Response contains: name: morpheus, job: zion resident, updatedAt: time | High | Pass |
 |TC_API_010| DELETE for Delete.               | Status code: 204, Response body is empty | High | Pass |
 
-| ## Negative testing ##  |
-|:-----------------------:|
+ ## **Negative testing** ##  
 | ID | Descriptoin of API requests                              | Expected result | Priority | Status |
 |:---|:---------------------------------------------------------|:----------------|:--------:|:------:|
 |TC_API_FAIL_001| GET for Wrong Expected Email.| Status code: 200, email: peter.peterson@mail.com | Medium | Fail |
