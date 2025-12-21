@@ -1,5 +1,5 @@
 
-**Test Case ID:** TC_SQL_005
+**Test Case ID:** TC_SQL_002
 
 **Title:** Check of quantity of orders per user
 
