@@ -1,5 +1,6 @@
 |Check-list name:| **Api testing checklist Reqres.in** |
-|----|:--------------------------------------------------------:|-----------------|----------|--------|
+
+
 | ID | Descriptoin                                              | Expected result | Priority | Status |
 |:---|:---------------------------------------------------------|:----------------|:--------:|:------:|
 |  1.| Check API request GET for List of Users.                 |                 |          |        |
