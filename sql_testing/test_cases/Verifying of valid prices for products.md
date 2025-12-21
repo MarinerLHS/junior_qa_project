@@ -1,6 +1,6 @@
 
 
-**Test Case ID:** TC_SQL_004
+**Test Case ID:** TC_SQL_011
 
 **Title:** Verifying of valid prices for products
 
