@@ -16,6 +16,8 @@
 
 | ## Negative testing ##  |
 |:-----------------------:|
+| ID | Descriptoin of API requests                              | Expected result | Priority | Status |
+|:---|:---------------------------------------------------------|:----------------|:--------:|:------:|
 |TC_API_FAIL_001| GET for Wrong Expected Email.| Status code: 200, email: peter.peterson@mail.com | Medium | Fail |
 |TC_API_FAIL_002| POST for Wrong expected Status Code.| Status code: 200 | Medium | Fail |
 |TC_API_FAIL_003| PATCH for Invalid Json Body.| Status code: 200, API returns updated fields| Low | Fail |
