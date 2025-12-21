@@ -1,5 +1,5 @@
-|  Check-list name: **Api testing checklist Reqres.in**                                               |
-|:----------------------------------------------------------------------------------------------------|
+ - Check-list name: **Api testing checklist Reqres.in**                                               
+
 
 | ID | Descriptoin                                              | Expected result | Priority | Status |
 |:---|:---------------------------------------------------------|:----------------|:--------:|:------:|
