@@ -1,5 +1,5 @@
 
-**Test Case ID:** TC_SQL_002
+**Test Case ID:** TC_SQL_010
 
 **Title:** Verify SELECT user with specific ID
 
