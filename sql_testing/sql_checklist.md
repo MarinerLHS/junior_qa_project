@@ -26,5 +26,5 @@
 |:---|:----------------------------------------------------------|:----------------|:--------:|:------:|
 |TC_SQL_FAIL_001| Invalid input sintax.| Database returns an error: System returns error of invalid input sintax. | Medium | Pass |
 |TC_SQL_FAIL_002| Availability to insert a user with duplicate email.| Database returns an error: duplicate key value violates unique constraint "users_email_key" | High | Pass |
-|TC_SQL_FAIL_003| Violatin of foreign key by INSERT statement with user which does not exists.| Database returns an error:
+|TC_SQL_FAIL_003| Violatin of foreign key by INSERT statement with user which does not exists. | Database returns an error: 
 Insert on table "orders" violates foreign key constraint. | High | Pass |
