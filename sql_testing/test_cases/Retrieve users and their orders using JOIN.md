@@ -1,4 +1,4 @@
-**Test Case ID:** TC_SQL_JOIN_001
+**Test Case ID:** TC_SQL_006
 
 **Title:** Retrieve users and their orders using JOIN
 
