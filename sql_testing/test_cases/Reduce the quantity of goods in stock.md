@@ -1,4 +1,4 @@
-**Test Case ID:** TC_SQL_UPDATE_003
+**Test Case ID:** TC_SQL_005
 
 **Title:** Reduce the quantity of goods in stock
 
