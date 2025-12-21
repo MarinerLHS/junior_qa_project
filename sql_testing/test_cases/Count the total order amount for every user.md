@@ -1,4 +1,4 @@
-**Test Case ID:** TC_SQL_JOIN_002
+**Test Case ID:** TC_SQL_003
 
 **Title:** Count the total order amount for every user 
 
