@@ -1,6 +1,14 @@
-**SQL testing Checklist. Using PostgreSQL 18 and DBeaver 25.3.0**
+# **SQL testing Checklist. Using PostgreSQL 18 and DBeaver 25.3.0** #
 
-1. Check SQL request for unique emails.
+### Description : Self-studying for understanding of how SQL database works, practice with basic SQL commands. 
+### Environment : Windows 10 PRO; PostgreSQL 18; DBeaver 25.3.0;
+### Created by : Igor Protsenko
+### Status : Done
+### Version : 1.1.5
+
+| ID | Descriptoin of API requests                              | Expected result | Priority | Status |
+|:---|:---------------------------------------------------------|:----------------|:--------:|:------:|
+|1. Check SQL request for unique emails.
 2. Check SQL request for quantity of orders per user.
 3. Check SQL request for total order amount for every user.
 4. Check SQL request for finding users with no orders.
