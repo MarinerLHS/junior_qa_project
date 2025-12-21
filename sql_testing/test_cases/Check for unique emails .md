@@ -1,4 +1,4 @@
-**Test Case ID:** TC_SQL_003
+**Test Case ID:** TC_SQL_001
 
 **Title:** Check for unique emails 
 
