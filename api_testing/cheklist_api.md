@@ -1,4 +1,4 @@
- # Check-list name: **Api testing checklist Reqres.in**  #1                                           
+ # Check-list name: **Api testing checklist Reqres.in**  #                                          
 
 
 | ID | Descriptoin                                              | Expected result                   | Priority | Status |
