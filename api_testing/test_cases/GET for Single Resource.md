@@ -39,7 +39,8 @@ Actual Result:
         "color": "#C74375",
         "pantone_value": "17-2031"
     }
-    }```
+   }
+   ```
 
 - No any errors
 
