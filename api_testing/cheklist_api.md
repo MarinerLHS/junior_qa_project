@@ -1,18 +1,18 @@
- # Check-list name: **Api testing checklist Reqres.in**  #                                          
+ # **Api testing checklist Reqres.in** #                                          
 
 
-| ID | Descriptoin                                              | Expected result                   | Priority | Status |
-|:---|:---------------------------------------------------------|:----------------------------------|:--------:|:------:|
-|TC_API_001| Check API request GET for List of Users.           | Status code: 200, Response contains required fields: id, email, first_name, last_name, avatar | High | Passed |
-|  2.| Check API request GET for Single User.                   |                 |          |        |
-|  3.| Check API request GET for Single User not Found.         |
-|  4.| Check API request GET for Single **Resource**.           |
-|  5.| Check API request GET for Single **Resource** Not Found. |
-|  6.| Check API request POST for Create.                       |
-|  7.| Check API request POST for Register successful.          |
-|  8.| Check API request POST for Register unsuccessful.        |
-| 9. | Check API request PATCH for Update.                      |
-| 10.| Check API request DELETE for Delete.                     |
-| 11.| Check API request GET for Wrong Expected Email.          |
-| 12.| Check API request POST for Wrong expected Status Code.   |
-| 13.| Check API request PATCH for Invalid Json Body.           |
+| ID | Descriptoin of API requests                                          | Expected result | Priority | Status |
+|:---|:---------------------------------------------------------|:----------------|:--------:|:------:|
+|TC_API_001| GET for List of Users.           | Status code: 200, Response contains required fields: id, email, first_name, last_name, avatar | High | Pass |
+|TC_API_002| GET for Single User.             | Status code: 200, Field types are correct, Response contains required fields: id, email, first_name, last_name, avatar | High | Pass |
+|  3.| GET for Single User not Found.         |
+|  4.| GET for Single **Resource**.           |
+|  5.| GET for Single **Resource** Not Found. |
+|  6.| POST for Create.                       |
+|  7.| POST for Register successful.          |
+|  8.| POST for Register unsuccessful.        |
+| 9. | PATCH for Update.                      |
+| 10.| DELETE for Delete.                     |
+| 11.| GET for Wrong Expected Email.          |
+| 12.| POST for Wrong expected Status Code.   |
+| 13.| PATCH for Invalid Json Body.           |
