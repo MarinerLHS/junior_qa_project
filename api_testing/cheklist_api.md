@@ -1,7 +1,8 @@
-|**Api testing checklist Reqres.in**|
-
-  1. Check API request GET for List of Users.
-  2. Check API request GET for Single User. 
+|Check-list name:| **Api testing checklist Reqres.in** |
+|----|-------------|-----------------|----------|--------|
+| ID | Descriptoin | Expected result | Priority | Status |
+|  1. |Check API request GET for List of Users.|
+| 2. Check API request GET for Single User. 
   3. Check API request GET for Single User not Found. 
   4. Check API request GET for Single **Resource**.
   5. Check API request GET for Single **Resource** Not Found. 
