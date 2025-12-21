@@ -1,9 +1,9 @@
  - Check-list name: **Api testing checklist Reqres.in**                                               
 
 
-| ID | Descriptoin                                              | Expected result | Priority | Status |
-|:---|:---------------------------------------------------------|:----------------|:--------:|:------:|
-|TC_API_001| Check API request GET for List of Users.                 |                 |          |        |
+| ID | Descriptoin                                              | Expected result                   | Priority | Status |
+|:---|:---------------------------------------------------------|:----------------------------------|:--------:|:------:|
+|TC_API_001| Check API request GET for List of Users.           | Status code: 200, Response contains required fields: id, email, first_name, last_name, avatar | High | Passed |
 |  2.| Check API request GET for Single User.                   |                 |          |        |
 |  3.| Check API request GET for Single User not Found.         |
 |  4.| Check API request GET for Single **Resource**.           |
