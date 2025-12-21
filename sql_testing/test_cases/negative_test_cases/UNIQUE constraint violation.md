@@ -1,4 +1,4 @@
-**Test Case ID:** TC_SQL_FAIL_001
+**Test Case ID:** TC_SQL_FAIL_002
 
 **Title:** Attempt to insert a user with duplicate email (UNIQUE constraint violation)
 
