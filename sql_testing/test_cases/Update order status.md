@@ -1,4 +1,4 @@
-**Test Case ID:** TC_SQL_UPDATE_002
+**Test Case ID:** TC_SQL_008
 
 **Title:** Update order status 
 
