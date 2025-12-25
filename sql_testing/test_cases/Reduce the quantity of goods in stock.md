@@ -14,7 +14,7 @@ WHERE id = 3;
 ``` 
 -**Screenshot** :
 
-<img src="../images/JOIN/name and products.png" alt="user-and-their-orders" width="700">
+<img src="../images/UPDATE/select-order-quantity.png" alt="select-product.id-and-quantity" width="700">
 
 Check that the result return with product_id = 2, quantity = 1.
 
