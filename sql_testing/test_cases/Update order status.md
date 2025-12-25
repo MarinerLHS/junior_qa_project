@@ -13,11 +13,19 @@ UPDATE orders
 SET status = 'completed'
 WHERE id = 2;
 ```
+-**Screenshot** :
+
+<img src="../images/UPDATE/update-order-status.png" alt="update-order-status" width="700">
+
 
 Verify change:
 ```sql
 SELECT status FROM orders WHERE id = 2;
 ```
+-**Screenshot-of-result** :
+
+<img src="../images/UPDATE/order-status-result.png" alt="order-status-result" width="700">
+
 
 **Expected Result:**
 Order with id = 2 will change status to completed.
