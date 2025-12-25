@@ -13,6 +13,10 @@
 ```sql
 SELECT * FROM products WHERE price < 0;
 ```
+-**Screenshot** :
+
+<img src="../images/SELECT/valid-prices.png" alt="valid-prices-for-products" width="700">
+
 
 2. Check returned data
 
