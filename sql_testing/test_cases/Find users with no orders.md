@@ -17,6 +17,10 @@ FROM users u
 LEFT JOIN orders o ON u.id = o.user_id
 WHERE o.id IS NULL;
 ```
+-**Screenshot** :
+
+<img src="../images/JOIN/no-orders.png" alt="users-with-no-orders" width="700">
+
 
 2.Check returned data.
 
