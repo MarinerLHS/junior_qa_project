@@ -32,6 +32,14 @@ Database returns:
 
 `Detail: Key (email)=(john.new@example.com) already exists.`
 
+
+- **Link for Jira** : https://igor2012lww.atlassian.net/browse/LBSQ-4
+
+- **Screenshot** :
+
+<img src="../images/bug_reports/unique-constraint-violation.png" alt="unique-constraint-violation" width="700">
+
+
 - Severity: High
 
 - Priority: High
