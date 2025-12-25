@@ -16,6 +16,10 @@ VALUES (999, 1, 1, 1200.00, 'pending');
 
 2. Observe system response.
 
+-**Screenshot** :
+
+<img src="../../images/NEGATIVE/user-id-not-exists.png" alt="error-user-id-not-exists" width="700">
+
 **Expected Result:**
 - Database returns an error:
 
