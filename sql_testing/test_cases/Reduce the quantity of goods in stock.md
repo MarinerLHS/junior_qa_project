@@ -12,6 +12,10 @@ SELECT product_id, quantity
 FROM orders 
 WHERE id = 3;
 ``` 
+-**Screenshot** :
+
+<img src="../images/JOIN/name and products.png" alt="user-and-their-orders" width="700">
+
 Check that the result return with product_id = 2, quantity = 1.
 
 2. Execute:
@@ -24,11 +28,19 @@ WHERE id = (
     SELECT product_id FROM orders WHERE id = 3
 );
 ```
+-**Screenshot** :
+
+<img src="../images/UPDATE/updating-quantity.png" alt="quantity-update-script" width="700">
+
 
 Verify change:
 ```sql
 SELECT stock FROM products WHERE id = 2;
 ```
+-**Screenshot-of-result** :
+
+<img src="../images/UPDATE/reduce-result.png" alt="result" width="700">
+
 
 **Expected Result:**
 Stock of product with id = 2 decreases from 150 to 149.
