@@ -22,6 +22,10 @@ Verify change:
 ```sql
 SELECT email FROM users WHERE id = 1;
 ```
+-**Screenshot-of-result** :
+
+<img src="../images/UPDATE/email-change-result.png" alt="change-email-of-specific-user-result" width="700">
+
 
 **Expected Result:**
 Email of user with id = 1 is updated to john.new@example.com
