@@ -20,7 +20,7 @@ To test the basic functionality of the database using SQL queries (SELECT, JOIN,
 
 ![creating-tables](sql_testing/screenshots/table-creation.png)
 
-![insert-data-into-tables](sql_testing/images/INSERT-data.png)
+![insert-data-into-tables](images/INSERT-data.png)
 
 **Tools**
 
