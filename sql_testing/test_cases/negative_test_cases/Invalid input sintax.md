@@ -18,7 +18,7 @@ VALUES ('BadStock', 10.00, 'many');
 
 -**Screenshot** :
 
-<img src="../images/NEGATIVE/invali-sintax.png" alt="invalud-syntax-result" width="700">
+<img src="../../images/NEGATIVE/invali-sintax.png" alt="invalud-syntax-result" width="700">
 
 
 **Expected Result:**
