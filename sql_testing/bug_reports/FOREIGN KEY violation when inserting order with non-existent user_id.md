@@ -30,6 +30,14 @@ Actual Result:
  	
   `Detail: Key (user_id)=(999) is not present in table "users".`
 
+
+- **Link for Jira** : https://igor2012lww.atlassian.net/browse/LBSQ-3
+
+- **Screenshot** :
+
+<img src="../images/bug_reports/foreign-key-violation.png" alt="foreign-key-violation" width="700">
+
+
 - Severity: High
 
 - Priority: High
