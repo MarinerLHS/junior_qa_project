@@ -18,7 +18,8 @@ FROM users u
 LEFT JOIN orders o ON u.id = o.user_id
 WHERE o.id IS NULL;
 ```
--**Screenshot** : <img src="../images/table-creation.png" alt="table-creation-script" width="700">
+-**Screenshot** :
+<img src="../images/JOIN/name and products.png" alt="user-and-their-orders" width="700">
 
 2.Check returned data.
 
