@@ -9,6 +9,10 @@
 ```sql
 SELECT * FROM users;
 ```
+-**Screenshot** :
+
+<img src="../images/SELECT/check-all-users.png" alt="select-all-users" width="700">
+
 
 2. Check returned rows and fields
 
