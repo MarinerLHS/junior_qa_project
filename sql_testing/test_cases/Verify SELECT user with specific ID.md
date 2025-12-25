@@ -11,6 +11,9 @@
 ```sql
 SELECT * FROM users where id = 2;
 ```
+-**Screenshot** :
+
+<img src="../images/SELECT/specific-ID.png" alt="user-with-specific-ID" width="700">
 
 2. Check returned data
 
