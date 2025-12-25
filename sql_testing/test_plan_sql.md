@@ -14,6 +14,12 @@ To test the basic functionality of the database using SQL queries (SELECT, JOIN,
 
 `orders`
 
+**Database creating screenshots** : 
+
+[creating-tables](sql_testing/screenshots/table-creation.png) 
+
+[insert-data-into-tables](sql_testing/screenshots/INSERT-data.png)
+
 **Tools**
 
 - DBeaver 25.3.0 — for executing SQL queries
