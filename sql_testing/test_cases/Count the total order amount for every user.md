@@ -17,6 +17,10 @@ FROM users u
 LEFT JOIN orders o ON u.id = o.user_id
 GROUP BY u.id;
 ```
+-**Screenshot** :
+
+<img src="../images/JOIN/total-order-amount.png" alt="total-order-amoun-for-every" width="700">
+
 2.Check returned data.
 
 **Expected Result:**
