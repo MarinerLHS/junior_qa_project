@@ -16,11 +16,9 @@ To test the basic functionality of the database using SQL queries (SELECT, JOIN,
 
 **Database creating screenshots** : 
 
-<img src="sql_testing/screenshots/table-creation.png" width="600">
+<img src="images/table-creation.png" alt="table-creation-script" width="600">
 
-![creating-tables](sql_testing/screenshots/table-creation.png)
-
-![insert-data-into-tables](images/INSERT-data.png)
+<img src="images/INSERT-data.png" alt="insert-data-into-tables" width="600">
 
 **Tools**
 
