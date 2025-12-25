@@ -13,6 +13,10 @@ SELECT user_id, COUNT(*) AS order_count
 		FROM orders 
 		GROUP BY user_id;
 ```
+-**Screenshot** :
+
+<img src="../images/SELECT/order-per-user.png" alt="quantity-orders-per-user" width="700">
+
     
 2. Check returned data
 
