@@ -13,6 +13,10 @@ UPDATE users
 SET email = 'john.new@example.com'
 WHERE id = 1;
 ```
+-**Screenshot** :
+
+<img src="../images/UPDATE/email-change.png" alt="change-email-of-specific-user" width="700">
+
 
 Verify change:
 ```sql
