@@ -15,6 +15,11 @@ VALUES ('Duplicate', 'User', 'john.new@example.com');
 
 2. Observe system response.
 
+-**Screenshot** :
+
+<img src="../../images/NEGATIVE/duplicate-key-value.png" alt="error-message-of-duplicate-email" width="700">
+
+
 **Expected Result:**
 Database returns an error:
 duplicate key value violates unique constraint "users_email_key"
