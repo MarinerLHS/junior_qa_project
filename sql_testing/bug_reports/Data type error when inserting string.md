@@ -4,7 +4,7 @@
 
 **Test Case ID:** TC_SQL_FAIL_003
 
-**Environment:** PostgreSQL 18; DBeaver 25.3.0
+**Environment:** PostgreSQL 18; DBeaver 25.3.0; Windows 10 Pro
 
 **Reported By:** Igor Protsenko
 
