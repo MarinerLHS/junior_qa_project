@@ -31,11 +31,11 @@ Database returns a data type error (intentional negative test case).
 
 	`Error position: line: 14 pos: 78`
 
+- **Link for Jira** : https://igor2012lww.atlassian.net/browse/LBSQ-2
+
 - **Screenshot** :
 
 <img src="../images/bug_reports/data_type_error.png" alt="data-type-error" width="700">
-
-- **Link for Jira** : ![https://igor2012lww.atlassian.net/browse/LBSQ-2]
 
 
 - Severity: Medium
