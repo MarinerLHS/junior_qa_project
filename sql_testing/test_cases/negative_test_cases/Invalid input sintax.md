@@ -16,6 +16,11 @@ VALUES ('BadStock', 10.00, 'many');
 
 2. Observe system response.
 
+-**Screenshot** :
+
+<img src="../images/NEGATIVE/invali-sintax.png" alt="invalud-syntax-result" width="700">
+
+
 **Expected Result:**
 
 Database returns an error:
