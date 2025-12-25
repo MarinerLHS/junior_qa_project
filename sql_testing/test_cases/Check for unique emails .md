@@ -14,6 +14,10 @@ SELECT email, COUNT(*)
 		HAVING COUNT(*) > 1;
 ```
 
+-**Screenshot** :
+
+<img src="../images/SELECT/unique-emails.png" alt="check-for-unique-emails" width="700">
+
 2. Check returned data
 
 **Expected Result:** Query returns nothig, beacuse of unique emails.
